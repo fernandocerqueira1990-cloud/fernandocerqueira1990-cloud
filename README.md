@@ -80,9 +80,7 @@ Chatbot baseado em regras desenvolvido em Python e NLTK para simular um atendime
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fernandocerqueira1990-cloud/fernandocerqueira1990-cloud/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Resumo da atividade no GitHub" width="100%" />
-
-<img src="https://raw.githubusercontent.com/fernandocerqueira1990-cloud/fernandocerqueira1990-cloud/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Linguagens mais utilizadas nos repositórios" width="420" />
+<img src="https://raw.githubusercontent.com/fernandocerqueira1990-cloud/fernandocerqueira1990-cloud/main/github-metrics.svg" alt="Painel de atividade, repositórios e linguagens no GitHub" width="100%" />
 
 </div>
 
