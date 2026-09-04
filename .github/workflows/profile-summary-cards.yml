@@ -24,7 +24,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: fernandocerqueira1990-cloud
-          commits_authoring: Fernando Cerqueira, fernando.cerqueira@gmail.com, fernandocerqueira1990-cloud
+          commits_authoring: Fernando Cerqueira, fernando.cerqueira1990@gmail.com, fernando.cerqueira@gmail.com, fernandocerqueira1990-cloud
           committer_branch: main
           filename: github-metrics.svg
           template: classic
