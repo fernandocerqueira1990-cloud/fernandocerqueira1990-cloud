@@ -24,7 +24,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: fernandocerqueira1990-cloud
-          repositories: fernandocerqueira1990-cloud/health-prospect-crm,fernandocerqueira1990-cloud/chatbot-servicos-publicos-python,fernandocerqueira1990-cloud/it-ops-toolkit
+          commits_authoring: Fernando Cerqueira, fernando.cerqueira@gmail.com, fernandocerqueira1990-cloud
           committer_branch: main
           filename: github-metrics.svg
           template: classic
@@ -33,6 +33,8 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
+          plugin_languages_indepth_custom: fernandocerqueira1990-cloud/health-prospect-crm,fernandocerqueira1990-cloud/chatbot-servicos-publicos-python,fernandocerqueira1990-cloud/it-ops-toolkit
+          plugin_languages_details: percentage,bytes-size
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 60
           config_timezone: America/Sao_Paulo
