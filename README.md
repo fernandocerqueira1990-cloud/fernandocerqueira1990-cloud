@@ -6,7 +6,7 @@
 
 Desenvolvimento de soluções orientadas a dados, com foco em aplicações backend, infraestrutura, integrações, monitoramento e operação de sistemas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Cerqueira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-cerqueira-9ba7421a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Cerqueira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-henrique-cerqueira-9ba7421a4/)
 [![GitHub](https://img.shields.io/badge/GitHub-fernandocerqueira1990--cloud-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fernandocerqueira1990-cloud)
 
 </div>
@@ -80,9 +80,9 @@ Chatbot baseado em regras desenvolvido em Python e NLTK para simular um atendime
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fernandocerqueira1990-cloud&show_icons=true&hide_title=true&hide_border=true&theme=transparent&locale=pt-br)
+<img src="https://raw.githubusercontent.com/fernandocerqueira1990-cloud/fernandocerqueira1990-cloud/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Resumo da atividade no GitHub" width="100%" />
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocerqueira1990-cloud&layout=compact&hide_border=true&theme=transparent&locale=pt-br)
+<img src="https://raw.githubusercontent.com/fernandocerqueira1990-cloud/fernandocerqueira1990-cloud/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Linguagens mais utilizadas nos repositórios" width="420" />
 
 </div>
 
@@ -92,6 +92,6 @@ Chatbot baseado em regras desenvolvido em Python e NLTK para simular um atendime
 
 Aberto a conexões profissionais, colaboração técnica e troca de conhecimento.
 
-[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/fernando-cerqueira-9ba7421a4/)
+[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/fernando-henrique-cerqueira-9ba7421a4/)
 
 </div>
