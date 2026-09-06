@@ -52,13 +52,17 @@ Toolkit em Python para automação e diagnóstico de operações de TI, baseado 
 
 ## Certificações e aprendizado prático
 
-- Google Cloud / Coursera — **Ingesting HL7v2 Data with the Healthcare API**
-- Google Cloud / Coursera — **Streaming HL7 to FHIR Data with Healthcare API**
-- Google / Coursera — **Technical Support Fundamentals** e **AI Fundamentals**
-- IBM / Coursera — **Web Development with Python**
-- GitHub — **GitHub Actions**
-- Cisco Networking Academy — **Packet Tracer**
-- Edutin — **DBA MySQL**
+- Google Cloud Training Online — **Ingesting HL7v2 Data with the Healthcare API** (2026)
+- Google Cloud Training Online — **Streaming HL7 to FHIR Data with Healthcare API** (2026)
+- Google — **Technical Support Fundamentals** (2026)
+- Google — **AI for Brainstorming and Planning** (2026)
+- Google — **AI Fundamentals** (2026)
+- Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul — Campus Sertão — **Gestão de Projetos de Software com PMBOK** (2026)
+- IBM — **Web Development with Python** (2026)
+- Cisco Networking Academy — **Network Support and Security** (2026)
+- ENAP — Escola Nacional de Administração Pública — **GitHub Codespaces** (2026)
+- ENAP — Escola Nacional de Administração Pública — **GitHub Actions** (2026)
+- Edutin Academy — **Administrador de Base de Dados MySQL** (2021)
 
 ## Contato
 
