@@ -52,6 +52,7 @@ Toolkit em Python para automação e diagnóstico de operações de TI, baseado 
 
 ## Certificações e aprendizado prático
 
+- Google Cloud / Coursera — **Ingesting HL7v2 Data with the Healthcare API**
 - Google Cloud / Coursera — **Streaming HL7 to FHIR Data with Healthcare API**
 - Google / Coursera — **Technical Support Fundamentals** e **AI Fundamentals**
 - IBM / Coursera — **Web Development with Python**
