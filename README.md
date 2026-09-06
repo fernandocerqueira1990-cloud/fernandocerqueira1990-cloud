@@ -6,7 +6,7 @@
 
 Sustentação N2/N3 • Integrações em Saúde • Dados Clínicos • Infraestrutura • Operações Críticas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Cerqueira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-cerqueira-9ba7421a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Cerqueira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-cerqueira-it/)
 [![GitHub](https://img.shields.io/badge/GitHub-fernandocerqueira1990--cloud-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fernandocerqueira1990-cloud)
 
 </div>
@@ -68,4 +68,4 @@ Toolkit em Python para automação e diagnóstico de operações de TI, baseado 
 
 Aberto a oportunidades e conexões em **Healthcare IT, sustentação de aplicações, integrações, SQL, infraestrutura e operações críticas**.
 
-[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/fernando-cerqueira-9ba7421a4/)
+[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/fernando-cerqueira-it/)
