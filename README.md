@@ -71,16 +71,16 @@ Projeto de estudo em Python/NLTK para prática de reconhecimento de padrões, es
 ## Formação e aprendizado atual
 
 - **Análise e Desenvolvimento de Sistemas — UNIASSELVI** — em andamento
-- **Healthcare Data Management and Interfaces — Illinois Institute of Technology / Coursera** — concluído (2026)
+- **Healthcare Data Management and Interfaces — Illinois Institute of Technology** — concluído (2026)
   - HL7, FHIR, CDA/CCD e fundamentos de interoperabilidade
   - OMOP, PCORnet, vocabulary mapping, semantic interoperability, ETL drift e data quality
 
 ## Certificações e labs relevantes
 
 ### Healthcare IT, Interoperability & Cloud
-- Illinois Institute of Technology / Coursera — **Healthcare Data Management and Interfaces** (2026)
-- Google Cloud Training Online — **Streaming HL7 to FHIR Data with Healthcare API** (2026)
-- Google Cloud Training Online — **Ingesting HL7v2 Data with the Healthcare API** (2026)
+- Illinois Institute of Technology — **Healthcare Data Management and Interfaces** (2026)
+- Google Cloud — **Streaming HL7 to FHIR Data with Healthcare API** (2026)
+- Google Cloud — **Ingesting HL7v2 Data with the Healthcare API** (2026)
 - Google Cloud Healthcare API — prática com **FHIR, DICOM/DICOMweb, Pub/Sub, Dataflow, BigQuery e GKE** (2026)
 
 ### Systems, Development & Infrastructure
