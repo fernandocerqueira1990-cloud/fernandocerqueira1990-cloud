@@ -71,7 +71,6 @@ Projeto de estudo em Python/NLTK para prática de reconhecimento de padrões, es
 ## Formação e aprendizado atual
 
 - **Análise e Desenvolvimento de Sistemas — UNIASSELVI** — em andamento
-- **Redes de Computadores — Anhanguera** — em andamento
 - **Healthcare Data Management and Interfaces — Illinois Institute of Technology / Coursera** — concluído (2026)
   - HL7, FHIR, CDA/CCD e fundamentos de interoperabilidade
   - OMOP, PCORnet, vocabulary mapping, semantic interoperability, ETL drift e data quality
